@@ -1,10 +1,16 @@
-- 👋 Hi, I’m @PriyadharshiniRVP
-- 👀 I’m interested in Solving Problems
-- 🌱 I’m currently learning golang and python 
-- 💞️ I’m looking to collaborate on Projects
-- 📫 How to reach me priyarama2209@gmail.com
 
-<!---
-PriyadharshiniRVP/PriyadharshiniRVP is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+<!---# Hi there! 👋 I'm Priya  
+🌟 **Aspiring Cloud Engineer | AI/ML Enthusiast | DevOps Learner**  
+
+### 💻 About Me  
+- 🔭 Currently learning **Cloud Computing & DevOps**  
+- 📚 Love solving problems on **LeetCode**  
+- 🌱 Exploring **AI/ML & Automation Projects**  
+- 📩 Reach me: **[Your Email] | [LinkedIn Profile]**  
+
+### 🚀 Skills & Tools  
+💻 Python, Java, Git, Bash, Linux  
+☁️ AWS, Azure, Docker, Kubernetes  
+📊 Data Science, AI/ML, IoT  
+
 --->
