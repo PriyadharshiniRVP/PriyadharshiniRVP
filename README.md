@@ -1,58 +1,65 @@
+👋 Hi, I'm Priyadharshini R
 
-# 👋 Hi, I'm Priyadharshini R
+🎓 Final-year Computer Science Engineering student
+💻 Full-Stack Developer (Python / Java)
+📍 Chennai, India
 
-🎓 Final-year Computer Science Engineering student at Jeppiaar Engineering College (Top 3 of 147)  
-💻 Backend Developer | ML Explorer | Cloud Enthusiast  
-🚀 Building scalable, public-facing productivity tools that reflect my growth and inspire others
+I build and maintain production-grade web applications that solve real business problems. My work spans backend development, system design, and deploying applications that are actively used—not just demos.
 
----
+🌱 About Me
 
-## 🌟 About Me
+I’m a developer who learns by shipping real software. I’ve worked closely with non-technical stakeholders, translated business workflows into code, and taken ownership of features from design to deployment.
 
-I'm a strategic and growth-oriented developer passionate about turning ideas into impactful products. Whether it's debugging a Spring Boot API, deploying a Flask-based ML service, or designing a clean UI with Chart.js—I'm all in. I believe in learning by doing, sharing my journey publicly, and crafting tools that help others level up.
+I care about:
 
-- 🔧 Backend: Java, Spring Boot, MySQL, Maven  
-- 🎨 Frontend: HTML, CSS, JavaScript, Chart.js  
-- 🧠 ML & APIs: Python, Flask, OpenAI, vectorization  
-- ☁️ Cloud & Deployment: Netlify, Railway, Render, Docker  
-- 📊 Tools: Git, GitHub Projects, Prompt Engineering
+clarity over cleverness
 
----
+systems that don’t break under real usage
 
-## 🚧 Current Project: LeetEntraîneur
+code that can be understood and maintained by others
 
-An AI-powered dashboard that tracks LeetCode progress, recommends problems, and visualizes growth.
+🧠 Technical Focus
 
-🔗 [Project Board](https://github.com/users/PriyadharshiniRVP/projects/1)  
-📦 [Frontend on Netlify](https://lighthearted-jalebi-93ebe8.netlify.app/)  
-🔌 Backend & ML APIs in progress
+Backend: Python (Django, Flask), Java (Spring Boot), REST APIs
 
----
+Frontend: HTML, CSS, JavaScript, Bootstrap
 
-## 📌 My Goals
+Databases: MySQL
 
-- ✅ Seamlessly deploy backend and ML services  
-- ✅ Connect them to my live Netlify frontend  
-- ✅ Make the dashboard public, inspiring, and portfolio-ready  
-- 🚀 Scale it into a branded productivity tool that tells my story
+Deployment & Tools: Git, GitHub, Postman, PythonAnywhere, basic Docker exposure
 
----
+🛠️ Selected Work
+Inventory & Billing Management System
 
-## ✨ What I Value
+Full-Stack Developer | Interior Design Business
 
-- Clarity, modularity, and non-destructive code  
-- Public proof of work and growth  
-- Turning setbacks into launchpads  
-- Helping others through what I build
+Designed and deployed a live inventory, billing, and sales management system used daily
 
----
+Implemented barcode-based billing, automated invoices, and real-time stock updates
 
-## 📫 Let's Connect
+Worked directly with business owners to gather requirements and iterate on features
 
-📧 priyarama2209@gmail.com  
-🔗 [LinkedIn](www.linkedin.com/in/priyadharshini-ramachandran-535903217) • [GitHub](https://github.com/PriyadharshiniRVP)
+Focused on reliability, usability, and real-world workflows
 
----
+AI-Powered LeetCode Tracker Dashboard(Personal Project)
 
-> “I build tools that reflect who I am—and help others become who they want to be.”
+Built backend services to track problem-solving progress and performance trends
 
+Integrated an AI-powered service for hints and coding guidance
+
+Designed dashboards to visualize growth and learning patterns
+
+Tech: Spring Boot, Flask, MySQL, JavaScript
+
+
+🎯 Current Direction
+
+Strengthening backend and system design fundamentals
+
+Gaining deeper production experience with scalable web applications
+
+Preparing for entry-level Software Engineer / Full-Stack Developer roles
+
+📫 Connect with Me
+
+📧 priyarama2209@gmail.com
